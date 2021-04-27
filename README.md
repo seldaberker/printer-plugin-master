@@ -1,1 +1,1 @@
-# printer-plugin-master
+# Cordova Printer Plugin 
